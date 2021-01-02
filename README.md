@@ -33,12 +33,18 @@ Text Lenght in text column
 
 #Step 4: 
 Words in Text columns is converted into words, i.e, Tokenized
+
+
 After tokenizing the output is obtained in form of list, which is then padded into 29 length
+
+
 LSTM Model is made:
 ![alt text](https://github.com/ashg1998/Sentiment-Analysis-of-Product-Review/blob/main/images/model_summary.jpg)
 
 #Result:
 We got the accuracy of 76%
+
+
 Confusion Matrix
 ![alt text](https://github.com/ashg1998/Sentiment-Analysis-of-Product-Review/blob/main/images/confusion_matrix.jpg)
 
