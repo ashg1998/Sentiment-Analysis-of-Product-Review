@@ -20,16 +20,20 @@ the stopwords is removed  while comparing with new stopwords list.
  
  #Step 3: In these step  text data is visualized.
  Positive Words:
+ 
 ![alt text](https://github.com/ashg1998/Sentiment-Analysis-of-Product-Review/blob/main/images/positive_wordcloud.jpg)
 
 Negative Words:
+
 ![alt text](https://github.com/ashg1998/Sentiment-Analysis-of-Product-Review/blob/main/images/negative.jpg)
 
 Negative WordCount:
+
 ![alt text](https://github.com/ashg1998/Sentiment-Analysis-of-Product-Review/blob/main/images/negative_wordcount.jpg)
 
 
 Text Lenght in text column
+
 ![alt text](https://github.com/ashg1998/Sentiment-Analysis-of-Product-Review/blob/main/images/average_wordcount.jpg)
 
 #Step 4: 
