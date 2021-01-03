@@ -3,6 +3,7 @@ We live in a world where we are constantly bombarded with social media feeds, tw
 NLP or Natural Processing works by converting words into numbers. Then this numbers are used to train ML/AI Model to make predictions.
 AI/ML - based sentiment analysis models, can be used to understand the sentiment from the public tweets, which can be used as a factor while making a buy/sell decision for securities.
 In this project we use NLP and ML & AI to understand the text data and predict the sentiment using ML/AI model.
+
 #Step 1: Exploring the data
 We found data is of 5791 rows and 2 columns, with no null values.
 Dataset contains two columns text and Sentiment(Positive and Negative)
